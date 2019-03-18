@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://LabelScript.gd" type="Script" id=1]
+
+[node name="Label" type="Label"]
+margin_left = 163.0
+margin_top = 100.0
+margin_right = 203.0
+margin_bottom = 114.0
+text = "TOUCHÊ"
+script = ExtResource( 1 )
+
