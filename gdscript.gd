@@ -358,6 +358,9 @@ func _ready():
 # your_notifier.gd
 signal data_found(data)
 
+# Signal with two arguments
+signal your_signal_name_with_args(a, b)
+
 var your_data = 42
 
 func _process(delta):

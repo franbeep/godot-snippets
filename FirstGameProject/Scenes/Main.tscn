@@ -16,6 +16,7 @@ Mob = ExtResource( 2 )
 
 [node name="Player" parent="." instance=ExtResource( 3 )]
 position = Vector2( 44.2833, 44.7352 )
+speed = 200
 
 [node name="MobTimer" type="Timer" parent="."]
 wait_time = 0.5
